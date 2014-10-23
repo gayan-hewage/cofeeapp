@@ -1,0 +1,8 @@
+*.patch
+patches/
+git-svn-diff.py
+*.bash
+*.sh
+.buildpath
+.project
+.settings/*
